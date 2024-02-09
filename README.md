@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on linkedIn
-- 📫 How to reach me on insta @lesego_mothapo
+- 📫 How to reach me : insta @lesego_mothapo
 - ⚡ Fun fact: coding is fun!
 
 <!---
